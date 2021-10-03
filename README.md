@@ -14,7 +14,7 @@
 
 ## 一键部署
 ```bash
-curl -fsSL https://raw.githubusercontent.com/aiocloud/stream/main/scripts/kickstart.sh | bash
+curl -fsSL https://raw.githubusercontent.com/FelixN1l/stream/main/scripts/kickstart.sh | bash
 ```
 
 ## 配置文件
